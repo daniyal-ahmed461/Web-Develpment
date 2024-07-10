@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(176, 224, 224);
+}
+h1 {
+    color: red;
+}
+i {
+    color:magenta
+}
+a {
+    color: forestgreen;
+}
+table {
+    font-size: xx-small;
+    border-color:crimson;
+}
+#ab {
+    border-color:navy;
+    font-size: medium;
+}
+h2{
+    color: darkmagenta;
+}
+ol{
+    color: forestgreen;
+}
+#row1{
+    height:30px;
+}
